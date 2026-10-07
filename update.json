@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.4",
   "summary": "改動歷史資料只查詢當前場次避免delay,predict.fun 新增同步時間. add auto update",
   "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.4/BinancePredictionTool_v1.4.zip"
 }
