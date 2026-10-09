@@ -1,5 +1,5 @@
 {
-  "version": "1.6.5",
-  "summary": "雙向鎖定",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.5.zip"
+  "version": "1.6.6",
+  "summary": "Windows Binance 下單流程同步 Linux，減少額外鎖定與重複驗證",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.6.zip"
 }
