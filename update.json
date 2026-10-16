@@ -1,6 +1,6 @@
 {
-  "version": "1.6.9",
-  "summary": "修正 Predict.fun 市場搜尋：依幣安時間直接定位當前五分鐘場次，改善自動換場與上一場結算基準補查，避免搜尋顯示舊場。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.9.zip",
-  "sha256": "10295b639d94748e6962d47c90337e23c673f0b0d6f513e1c304e82c799dd3d5"
+  "version": "1.6.11",
+  "summary": "Binance 與 Predict.fun 同步 Linux 方向鎖、BTC 斜率、賠率等待及送單前重新確認",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.11.zip",
+  "sha256": "36eb7c008cc5e30266cde5f5522400a9286af1393b300b98263b9de2e6ad00ba"
 }
