@@ -1,6 +1,6 @@
 {
-  "version": "1.6.12",
-  "summary": "簡化 Binance 與 Predict.fun 介面：市場與策略完整分頁，連線設定移入市場頁；進階搜尋、診斷及手動交易可收合，排程狀態保持可見。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.12.zip",
-  "sha256": "423189987f0a55c99928940925b78de0a4fdcfc081e29d9e84a20e06d6936ea4"
+  "version": "1.6.13",
+  "summary": "新增 Predict.fun 波動率測試分頁：前 120 秒暖機固定 σ、動態價差門檻、支援自動與手動下單、送單前檢查持倉及成交狀態確認，沿用最高買價與 UNKNOWN 鎖定防護。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.13.zip",
+  "sha256": "82ef3ee0c86328e8e81701537cf568e5f71a9e12d7a734a066beacfa451447db"
 }
