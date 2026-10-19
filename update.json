@@ -1,6 +1,6 @@
 {
-  "version": "1.6.11",
-  "summary": "Binance 與 Predict.fun 同步 Linux 方向鎖、BTC 斜率、賠率等待及送單前重新確認",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.11.zip",
-  "sha256": "36eb7c008cc5e30266cde5f5522400a9286af1393b300b98263b9de2e6ad00ba"
+  "version": "1.6.12",
+  "summary": "簡化 Binance 與 Predict.fun 介面：市場與策略完整分頁，連線設定移入市場頁；進階搜尋、診斷及手動交易可收合，排程狀態保持可見。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.12.zip",
+  "sha256": "423189987f0a55c99928940925b78de0a4fdcfc081e29d9e84a20e06d6936ea4"
 }
