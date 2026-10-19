@@ -1,6 +1,6 @@
 {
-  "version": "1.6.13",
-  "summary": "新增 Predict.fun 波動率測試分頁：前 120 秒暖機固定 σ、動態價差門檻、支援自動與手動下單、送單前檢查持倉及成交狀態確認，沿用最高買價與 UNKNOWN 鎖定防護。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.13.zip",
-  "sha256": "82ef3ee0c86328e8e81701537cf568e5f71a9e12d7a734a066beacfa451447db"
+  "version": "1.6.14",
+  "summary": "Predict.fun 波動率測試分頁：整合訂單流日誌、RLock 防卡死、關閉視窗保護、零成交取消維持鎖定與下單前守衛原因透傳。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.14.zip",
+  "sha256": "d6466eb4fb913f2aac4373e50400bd8b3a3c9077f5775127a706c1686e29300d"
 }
