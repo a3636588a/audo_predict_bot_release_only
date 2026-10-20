@@ -1,6 +1,6 @@
 {
-  "version": "1.6.16",
-  "summary": "新增幣安與Predict.fun共用三尺度波動率模式：前15分鐘、本場前120秒、近期30秒σ取最大；預設模型97%、暖機σ≥3、最後120秒判斷。顯示三σ與價差門檻，預設僅模擬；真實送單沿用各平台REST與防重守衛。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.16.zip",
-  "sha256": "d1ac8d810b8f20cf6ebbe624389c69ef0d9d5cfa47773dd62a3f8d83c22c6408"
+  "version": "1.6.17",
+  "summary": "幣安與Predict.fun波動率測試統一在剩餘時間≤10秒停止新買單；固定、冷卻、動態及三尺度模式皆適用。使用幣安同步時間，等待行情後送單前重新檢查截止點，保留已送出訂單的查證及防重鎖。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.17.zip",
+  "sha256": "5e6a400cb97265d130688a4d0e415a0aa0f1207440b9da4092e527cd121b472d"
 }
