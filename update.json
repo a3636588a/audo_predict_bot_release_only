@@ -1,6 +1,6 @@
 {
-  "version": "1.6.17",
-  "summary": "幣安與Predict.fun波動率測試統一在剩餘時間≤10秒停止新買單；固定、冷卻、動態及三尺度模式皆適用。使用幣安同步時間，等待行情後送單前重新檢查截止點，保留已送出訂單的查證及防重鎖。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.17.zip",
-  "sha256": "5e6a400cb97265d130688a4d0e415a0aa0f1207440b9da4092e527cd121b472d"
+  "version": "1.6.18",
+  "summary": "新增雙平台高波動暫停買入與買入後反向止損；保留最後10秒禁止新買入。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.18.zip",
+  "sha256": "9278ca089ab2f41d7d64b5dade82195a836555bec737e223376819ccc61e8f43"
 }
