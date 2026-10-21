@@ -1,6 +1,6 @@
 {
-  "version": "1.6.20",
-  "summary": "雙市場取消高波動單獨擋單，保留60秒反向過濾、原模式冷卻與最後10秒禁買。修正Predict.fun保護買單註冊與首次成交時間的now_ms錯誤；保留買後退出、UNKNOWN防重及等待既有Updater就緒再關閉，無需更換Updater。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.20.zip",
-  "sha256": "568ed0870d1d27cc7fc820b8e6c48b7e3f55482d461f6f539123e5557863cadd"
+  "version": "1.6.24",
+  "summary": "雙平台波動率頁加入XGBoost雙模型實際止損切換。新買單預設最終反向≥0.30且10秒穿越≥0.15，取代反向倍率並保留開盤價防禦；模型不足或剩餘不足20秒只保留開盤防禦，舊持倉沿用原設定。含研究摘要與背景評分隔離修正；Updater沿用既有版本。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.24.zip",
+  "sha256": "62d5e24d719fe1c99649e46490db43aa8c92911a2b1a6597f24c9ff01cc9d1f5"
 }
