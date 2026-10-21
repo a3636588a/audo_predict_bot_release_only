@@ -1,6 +1,6 @@
 {
-  "version": "1.6.18",
-  "summary": "新增雙平台高波動暫停買入與買入後反向止損；保留最後10秒禁止新買入。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.18.zip",
-  "sha256": "9278ca089ab2f41d7d64b5dade82195a836555bec737e223376819ccc61e8f43"
+  "version": "1.6.19",
+  "summary": "雙市場新增60秒反向進場過濾；買後急反向、累積不利移動或穿越開盤價啟動退出並保存重試意圖。修補幣安逾時保護設定及慢REST後更新行情，保留最後10秒禁買與UNKNOWN防重。主程式等待既有Updater就緒再關閉，無需更換Updater。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.19.zip",
+  "sha256": "e64c035d7863edddb397ea8e85738e0094a5028e5923313ee6a893913e7a9f94"
 }
