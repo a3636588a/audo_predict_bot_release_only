@@ -1,6 +1,6 @@
 {
-  "version": "1.6.24",
-  "summary": "雙平台波動率頁加入XGBoost雙模型實際止損切換。新買單預設最終反向≥0.30且10秒穿越≥0.15，取代反向倍率並保留開盤價防禦；模型不足或剩餘不足20秒只保留開盤防禦，舊持倉沿用原設定。含研究摘要與背景評分隔離修正；Updater沿用既有版本。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.24.zip",
-  "sha256": "62d5e24d719fe1c99649e46490db43aa8c92911a2b1a6597f24c9ff01cc9d1f5"
+  "version": "1.6.26",
+  "summary": "波動率進場新增自適應95～93%買價、固定分數買價分層、180秒視窗與核心＋RSI影子對照；保留雙模型實際止損及最後10秒禁買。修正主程式等待Updater就緒的關閉握手，並加入PID與Windows錯誤碼診斷。若舊Updater曾顯示無法取得舊程式狀態，請先從v1.6 Release手動下載並替換Updater_v1.6.26.exe。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.26.zip",
+  "sha256": "088e9595e94040adb1334ed2de0b75cdd6d11c644b62a4be4178dd9fa4b60a7e"
 }
