@@ -1,6 +1,6 @@
 {
-  "version": "1.6.26",
-  "summary": "波動率進場新增自適應95～93%買價、固定分數買價分層、180秒視窗與核心＋RSI影子對照；保留雙模型實際止損及最後10秒禁買。修正主程式等待Updater就緒的關閉握手，並加入PID與Windows錯誤碼診斷。若舊Updater曾顯示無法取得舊程式狀態，請先從v1.6 Release手動下載並替換Updater_v1.6.26.exe。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.26.zip",
-  "sha256": "088e9595e94040adb1334ed2de0b75cdd6d11c644b62a4be4178dd9fa4b60a7e"
+  "version": "1.6.28",
+  "summary": "雙平台背景波動率策略與數值儀表板：整合σ、價差、進場門檻、實際買價與固定XGBoost分數；恢復暖機、背景資料及進場防禦日誌。送單前使用新鮮BTC WS與完成K線快取，避免同步REST補查；Predict.fun可沿用訂單簿WS。保留原生下單確認、防重送與最後10秒禁買。Updater沿用1.6.26。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.28.zip",
+  "sha256": "844f14462af0a6117d2440f68ef59c04e5d03e40f7e54e41a0bdf1edc54a8f45"
 }
