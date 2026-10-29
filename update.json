@@ -1,6 +1,6 @@
 {
-  "version": "1.6.28",
-  "summary": "雙平台背景波動率策略與數值儀表板：整合σ、價差、進場門檻、實際買價與固定XGBoost分數；恢復暖機、背景資料及進場防禦日誌。送單前使用新鮮BTC WS與完成K線快取，避免同步REST補查；Predict.fun可沿用訂單簿WS。保留原生下單確認、防重送與最後10秒禁買。Updater沿用1.6.26。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.28.zip",
-  "sha256": "844f14462af0a6117d2440f68ef59c04e5d03e40f7e54e41a0bdf1edc54a8f45"
+  "version": "1.6.29",
+  "summary": "新增雙平台第二種止損「核心＋RSI雙模型＋開盤防禦」，修正RSI−50與訓練輸入一致。新模式在剩餘20～120秒須最終分數≥0.35且10秒穿線分數≥0.15；其他時段或評分不可用時保留穿越開盤價退出。原版仍為預設，既有持倉沿用買入時設定。背景評分保留時效、防重送與原生賣單確認。Updater沿用1.6.26。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.29.zip",
+  "sha256": "4b776f3cea45b14e36a401e7deb7d3bcfaab27301d703304dd014df8d5874512"
 }
