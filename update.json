@@ -1,6 +1,6 @@
 {
-  "version": "1.6.29",
-  "summary": "新增雙平台第二種止損「核心＋RSI雙模型＋開盤防禦」，修正RSI−50與訓練輸入一致。新模式在剩餘20～120秒須最終分數≥0.35且10秒穿線分數≥0.15；其他時段或評分不可用時保留穿越開盤價退出。原版仍為預設，既有持倉沿用買入時設定。背景評分保留時效、防重送與原生賣單確認。Updater沿用1.6.26。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.29.zip",
-  "sha256": "4b776f3cea45b14e36a401e7deb7d3bcfaab27301d703304dd014df8d5874512"
+  "version": "1.6.31",
+  "summary": "修正幣安止損：依區間分配及官方可用份額縮量賣出，確認成交後保留未賣差額，避免少0.01份就整筆拒絕或誤標平倉；保留重試上限、冷卻與UNKNOWN防重送。包含暖機每秒更新與換場等待修正。Predict.fun交易流程不變，Updater沿用1.6.26。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.31.zip",
+  "sha256": "701b853eb6bdd5239a42371ab0b45ccae57e5c340174188c25337d6e84e4aed4"
 }
