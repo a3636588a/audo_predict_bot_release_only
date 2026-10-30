@@ -1,6 +1,6 @@
 {
-  "version": "1.6.31",
-  "summary": "修正幣安止損：依區間分配及官方可用份額縮量賣出，確認成交後保留未賣差額，避免少0.01份就整筆拒絕或誤標平倉；保留重試上限、冷卻與UNKNOWN防重送。包含暖機每秒更新與換場等待修正。Predict.fun交易流程不變，Updater沿用1.6.26。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.31.zip",
-  "sha256": "701b853eb6bdd5239a42371ab0b45ccae57e5c340174188c25337d6e84e4aed4"
+  "version": "1.6.32",
+  "summary": "新增提早進場實驗選項：幣安與Predict.fun可另勾選真實進場，影子紀錄持續；送單前重算最新模型與行情，共用原本交易鎖、成交份額確認及所選止損。提早單最高95¢，最後10秒不買。Predict.fun額外止損影子比較預設關閉；WS建單沿用原流程，Updater維持1.6.26。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.32.zip",
+  "sha256": "367a3a21988f702e02833c69ef96fd4e882a785fcf4bf19929bfd0d0f44f7a1b"
 }
