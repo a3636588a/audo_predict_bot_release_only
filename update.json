@@ -1,6 +1,6 @@
 {
-  "version": "1.6.32",
-  "summary": "新增提早進場實驗選項：幣安與Predict.fun可另勾選真實進場，影子紀錄持續；送單前重算最新模型與行情，共用原本交易鎖、成交份額確認及所選止損。提早單最高95¢，最後10秒不買。Predict.fun額外止損影子比較預設關閉；WS建單沿用原流程，Updater維持1.6.26。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.32.zip",
-  "sha256": "367a3a21988f702e02833c69ef96fd4e882a785fcf4bf19929bfd0d0f44f7a1b"
+  "version": "1.6.33",
+  "summary": "新增Early-Prior44提早先驗雙模型止損選項：幣安與Predict.fun皆可選擇，44特徵及高斯先驗殘差評分，剩20～120秒最終≥0.35且10秒穿線≥0.35；保留穿開盤防線及原有止損模式。EXE已內含新模型與校驗資訊；既有持倉沿用買入時模式，Updater維持1.6.26。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.33.zip",
+  "sha256": "1a9e3976363784e1f5c2922f55c079fbe8aa6482444f7db5cc90d7a51081872b"
 }
