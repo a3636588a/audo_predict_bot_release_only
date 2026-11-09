@@ -1,6 +1,6 @@
 {
-  "version": "1.6.35",
-  "summary": "新增Predict.fun量價XGBoost深度1/3/6及深度1校正＋穿越等待30秒選項；修正XGBoost暖機0/120、補齊歷史秒線、行情跨秒與WS完成秒線喚醒。新增買單階段耗時與授權預熱；Logit單次送單沿用觸發訊號並保留最高買價。保留各平台原生訂單安全檢查與所選止損模式；Updater維持既有版本。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.35.zip",
-  "sha256": "f2fca87353e64eaaa426d65a20ade836b8cea1c2e3be63f9bfd9003cb04d94da"
+  "version": "1.6.36",
+  "summary": "Windows幣安新增量價XGBoost深度1/3/6及深度1校正＋穿越等待選項，沿用各平台原生下單流程。幣安量價進場在quote後檢查成交價與最低接收份額，超過模型最高買價或重驗未達標即阻擋送單；Predict.fun及既有止損模式保留，Updater維持既有版本。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.36.zip",
+  "sha256": "2a8a311e6e92284a5e1fb4719522464976573948ef1caf192fb71e8fc2512c84"
 }
