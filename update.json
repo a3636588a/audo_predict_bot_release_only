@@ -1,6 +1,6 @@
 {
-  "version": "1.6.33",
-  "summary": "新增Early-Prior44提早先驗雙模型止損選項：幣安與Predict.fun皆可選擇，44特徵及高斯先驗殘差評分，剩20～120秒最終≥0.35且10秒穿線≥0.35；保留穿開盤防線及原有止損模式。EXE已內含新模型與校驗資訊；既有持倉沿用買入時模式，Updater維持1.6.26。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.33.zip",
-  "sha256": "1a9e3976363784e1f5c2922f55c079fbe8aa6482444f7db5cc90d7a51081872b"
+  "version": "1.6.35",
+  "summary": "新增Predict.fun量價XGBoost深度1/3/6及深度1校正＋穿越等待30秒選項；修正XGBoost暖機0/120、補齊歷史秒線、行情跨秒與WS完成秒線喚醒。新增買單階段耗時與授權預熱；Logit單次送單沿用觸發訊號並保留最高買價。保留各平台原生訂單安全檢查與所選止損模式；Updater維持既有版本。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.35.zip",
+  "sha256": "f2fca87353e64eaaa426d65a20ade836b8cea1c2e3be63f9bfd9003cb04d94da"
 }
