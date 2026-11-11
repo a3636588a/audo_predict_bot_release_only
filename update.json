@@ -1,6 +1,6 @@
 {
-  "version": "1.6.36",
-  "summary": "Windows幣安新增量價XGBoost深度1/3/6及深度1校正＋穿越等待選項，沿用各平台原生下單流程。幣安量價進場在quote後檢查成交價與最低接收份額，超過模型最高買價或重驗未達標即阻擋送單；Predict.fun及既有止損模式保留，Updater維持既有版本。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.36.zip",
-  "sha256": "2a8a311e6e92284a5e1fb4719522464976573948ef1caf192fb71e8fc2512c84"
+  "version": "1.6.37",
+  "summary": "新增量價XGBoost深度1多特徵校正＋穿越等待選項及15秒量壓特徵；調整模型買價上限92¢與1¢緩衝，新增送單前現貨穿越及異常盤口檢查。Predict.fun授權採本場快取、背景預查與取消／授權錯誤失效重查；同步行情與顯示修正。Updater維持既有版本。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.37.zip",
+  "sha256": "7d37b779a552931a82ac852bf31e6929cdcb03388043b41c1fb055a879cbf9cb"
 }
