@@ -1,6 +1,6 @@
 {
-  "version": "1.6.37",
-  "summary": "新增量價XGBoost深度1多特徵校正＋穿越等待選項及15秒量壓特徵；調整模型買價上限92¢與1¢緩衝，新增送單前現貨穿越及異常盤口檢查。Predict.fun授權採本場快取、背景預查與取消／授權錯誤失效重查；同步行情與顯示修正。Updater維持既有版本。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.37.zip",
-  "sha256": "7d37b779a552931a82ac852bf31e6929cdcb03388043b41c1fb055a879cbf9cb"
+  "version": "1.6.38",
+  "summary": "新增11/12量價深度1多特徵重訓模型與基礎機率門檻設定；分離全域、目前策略及影子比較紀錄，切換策略不混入舊判斷。修正Predict.fun桌面委託簿WS啟動與買入快取共用、切場授權預查及取消後快取失效通知。Updater維持原版。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.38.zip",
+  "sha256": "f4c414d17b8f2b3fc73461e948191cbdfdf14258f560ba7462c57993ab5a5da8"
 }
