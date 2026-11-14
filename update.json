@@ -1,6 +1,6 @@
 {
-  "version": "1.6.39",
-  "summary": "嶺回歸及量價XGBoost（含重訓版）的暖機最低σ直接採面板設定，移除模型預設3的隱藏下限。高斯基礎勝率改為獨立一行固定顯示；多特徵／重訓模式可調，其他模式停用，原設定值及計算規則保留。買價、穿越等待、止損及Updater不變。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.39.zip",
-  "sha256": "dd544ae335f3fafed124c4052320bf98128c8fa8a03417395858daeb7d22dc03"
+  "version": "1.6.40",
+  "summary": "新增直接使用樹模型原始分數的量價深度1多特徵＋穿越等待模式，兩平台均可選用並保留基礎勝率門檻及送單前重驗。多特徵模式預設最低σ調整為1.5，各穿越等待模式補齊300根歷史秒線；最高買價、訂單安全檢查及Updater維持原版。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.40.zip",
+  "sha256": "cac4806ac6e13bc40cf2721543e5e359bd21f4c4c86d69bcf5c700a8dba4c5e5"
 }
