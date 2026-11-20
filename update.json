@@ -1,6 +1,6 @@
 {
-  "version": "1.6.40",
-  "summary": "新增直接使用樹模型原始分數的量價深度1多特徵＋穿越等待模式，兩平台均可選用並保留基礎勝率門檻及送單前重驗。多特徵模式預設最低σ調整為1.5，各穿越等待模式補齊300根歷史秒線；最高買價、訂單安全檢查及Updater維持原版。",
-  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.40.zip",
-  "sha256": "cac4806ac6e13bc40cf2721543e5e359bd21f4c4c86d69bcf5c700a8dba4c5e5"
+  "version": "1.6.41",
+  "summary": "新增單調約束量價模式、自適應接力與永續合約領先EV模式，整合對應行情、原生下單與模型資產。模型觀察及影子止損評分區改為預設收合，等待最高買價時顯示原因。Updater維持原版。",
+  "url": "https://github.com/a3636588a/audo_predict_bot_release_only/releases/download/v1.6/BinancePredictionTool_v1.6.41.zip",
+  "sha256": "7fbd91c847193f4a7491719dabb916b6b21b28c4bb10ae901acab601b0c0c0a3"
 }
